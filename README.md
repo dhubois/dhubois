@@ -1,6 +1,7 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
+This is my space where I like to show some projects and practice I've done while on the road to become a data analyst. My current day-to-day involves being a data analyst at Publix. Check out my Portfolio!
+
 **dhubois/dhubois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
