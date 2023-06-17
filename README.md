@@ -20,7 +20,7 @@ Visit my [DataCamp](https://www.datacamp.com/profile/palexanderdubois) profile f
 
 ## Connect with me
 
-- Data Portfolio site -  <a href="">ComingSoon.com/I-Promise!/</a>
+- Data Portfolio site -  <a href="https://paulsprojectportfolio.framer.website/">https://paulsprojectportfolio.framer.website//</a>
 
 - email: p.alexanderdubois@gmail.com
 
