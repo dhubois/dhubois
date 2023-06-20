@@ -1,10 +1,12 @@
-### Welcome! 👋
+## Bonjour! 👋
 
 This is my space where I like to show some projects and practice I've done while on the road to become a data analyst. My current day-to-day involves being a data analyst at Publix. Here's a quick introduction to my Portfolio! Check out my WIP [landing page](https://paulsprojectportfolio.framer.website/) too!
 
-## Connect with me
+---
 
-- Data Portfolio site -  <a href="https://paulsprojectportfolio.framer.website/">https://paulsprojectportfolio.framer.website//</a>
+### Connect with me
+
+- Landing page -  <a href="https://paulsprojectportfolio.framer.website/">https://paulsprojectportfolio.framer.website//</a>
 
 - email: p.alexanderdubois@gmail.com
 
@@ -12,7 +14,7 @@ This is my space where I like to show some projects and practice I've done while
 
 ---
 
-<h3 align="left">Languages, Packages and Tools used throughout:</h3><br>
+<h3 align="left">Languages, packages and tools used throughout:</h3><br>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://lubridate.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://lubridate.tidyverse.org/logo.png" alt="lubridate" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -28,28 +30,11 @@ This is my space where I like to show some projects and practice I've done while
 
 ---
 
-### **Python**
-| Project | Description |
-| --- | --- |
-| [`Analyze Your Runkeeper Fitness Data`](https://github.com/dhubois/Data-Portfolio/tree/main/Python/Analyzing%20Runkeep%20Data) | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
-| [`Dr. Semmelweis and the discovery of Handwashing`](https://github.com/dhubois/Data-Portfolio/tree/main/Python/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing) | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
-|[`Seaborn Practice`](https://github.com/dhubois/Data-Portfolio/tree/main/Python/Seaborn%20Fun%20Practice)| Created multiple plots using different datasets available through Python's Environment |
+### Some of my favorite projects
 
----
-
-### **R**
-| Project | Description |
-| --- | --- |
-| [`Dr. Semmelweis and the discovery of Handwashing`](https://github.com/dhubois/Data-Portfolio/tree/main/R/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing) | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
-| [`Fatal Car Accidents in the United States`](https://github.com/dhubois/Data-Portfolio/tree/main/R/Fatal%20Car%20Accidents%20in%20the%20US) | Every year, NHTSA comes out with a summary fatal car crashes in the United States. My interest with this project was to analyze the data from 2010 to 2020 to determine if a better understanding of the factors that contribute to these accidents can be learned. |
-| [`Google Capstone Project`](https://github.com/dhubois/Data-Portfolio/tree/main/R/Google%20Capstone%20Project) | As a junior analyst in the marketing team, I was tasked to find insights that can explain to us how consumers are using their smart devices by analyzing user’s smart device fitness data. |
-|[`Spotify Wrapped Analysis`](https://github.com/dhubois/Data-Portfolio/tree/main/R/Spotify%20Wrapped%20Analysis)| Learning to use jsonlite, spotifyr, lubridate and plotly, analyze and visualize personal summary statistics of listening behaviors from January 2022 to October 2022. |
-| [`Visualizing COVID-19`](https://github.com/dhubois/Data-Portfolio/tree/main/R/Visualizing%20COVID-19) | Visualize the rise of COVID-19 cases globally with ggplot2. Manipulate data frames using dplyr and make plots using ggplot2. |
-
-
----
-
-### **SQL**
-| Project | Description |
-| --- | --- |
-| `Loading...` | Uploading Projects completed through Google Data Analytics Certificate with SQL... Soon! |
+| Project | Language | Description |
+| --- | --- | --- |
+| [`Analyze Your Runkeeper Fitness Data`](https://github.com/dhubois/Data-Portfolio/tree/main/Python/Analyzing%20Runkeep%20Data) | Python | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
+| [`Fatal Car Accidents in the United States`](https://github.com/dhubois/Data-Portfolio/tree/main/R/Fatal%20Car%20Accidents%20in%20the%20US) | R | Every year, NHTSA comes out with a summary fatal car crashes in the United States. My interest with this project was to analyze the data from 2010 to 2020 to determine if a better understanding of the factors that contribute to these accidents can be learned. |
+| [`Google Capstone Project`](https://github.com/dhubois/Data-Portfolio/tree/main/R/Google%20Capstone%20Project) | R | As a junior analyst in the marketing team, I was tasked to find insights that can explain to us how consumers are using their smart devices by analyzing user’s smart device fitness data. |
+|[`Spotify Wrapped Analysis`](https://github.com/dhubois/Data-Portfolio/tree/main/R/Spotify%20Wrapped%20Analysis)| R | Learning to use jsonlite, spotifyr, lubridate and plotly, analyze and visualize personal summary statistics of listening behaviors from January 2022 to October 2022. |
