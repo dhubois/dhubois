@@ -2,22 +2,6 @@
 
 This is my space where I like to show some projects and practice I've done while on the road to become a data analyst. My current day-to-day involves being a data analyst at Publix. Here's a quick introduction to my Portfolio! Check out my WIP [landing page](https://paulsprojectportfolio.framer.website/) too!
 
-
-# Data-Portfolio
-
-This Portfolio contains a mulititude of projects, and practice notebooks. Many projects are found on [DataCamp](https://www.datacamp.com/)! However, I have added here many notebooks of projects I've worked on throughout my Master's of Data Science, Google Certificates, and Harvad CS109x course. Also, the practice notebooks are just helpful notebooks to help get reaccustomed to certain packages or helpful programming practices!
-
----
-
-<p align="center"> 
-<img src="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/004/942/original/fb-optimized.jpg?1612253712" width="300">
-</p>
-
-
-Visit my [DataCamp](https://www.datacamp.com/profile/palexanderdubois) profile for more details about myself!
-
----
-
 ## Connect with me
 
 - Data Portfolio site -  <a href="https://paulsprojectportfolio.framer.website/">https://paulsprojectportfolio.framer.website//</a>
