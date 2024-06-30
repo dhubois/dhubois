@@ -6,7 +6,7 @@ This is my space where I like to show some projects and practice I've done while
 
 ### Connect with me
 
-- Landing page -  <a href="https://paulsprojectportfolio.framer.website/">https://paulsprojectportfolio.framer.website//</a>
+- resume: -  <a href="https://read.cv/pad">https://read.cv/pad//</a>
 
 - email: p.alexanderdubois@gmail.com
 
