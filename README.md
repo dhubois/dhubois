@@ -6,8 +6,6 @@ This is my space where I like to show some projects and practice I've done while
 
 ### Connect with me
 
-- resume: -  <a href="https://read.cv/pad">read.cv/pauldubois/</a>
-
 - email: p.alexanderdubois@gmail.com
 
 - <a href="https://www.linkedin.com/in/dubois-paul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dubois-paul" height="30" width="40" /></a>
